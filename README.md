@@ -1,6 +1,6 @@
 # Bienvenue 
 
-le formulaire d'inscription, est issue de la formation sur le Programme Rocket dispensé par Believemy
+le formulaire d'inscription, est issue de la formation sur le Programme Rocket dispensé par Believemy https://believemy.com/
 
 pré requis
 
@@ -12,6 +12,6 @@ pré requis
 
 - https://www.wampserver.com/
 
-3. Il ne vous reste plus qu'à installer votre serveur local.
+3. cette version 1.0 est codé en utilisant les bonnes pratiques
 
 Lgz
